@@ -7,6 +7,7 @@
   "scripts": {
     "prepublish": "echo flip-string prepublish",
     "prepublishOnly": "echo flip-string prepublishOnly",
+    "install": "echo flip-string install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "homepage": "https://github.com/echamudi/lerna-template/tree/master/packages/flip-string",

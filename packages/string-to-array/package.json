@@ -7,6 +7,7 @@
   "scripts": {
     "prepublish": "echo string-to-array prepublish",
     "prepublishOnly": "echo string-to-array prepublishOnly",
+    "install": "echo string-to-array install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "homepage": "https://github.com/echamudi/lerna-template/tree/master/packages/string-to-array",
