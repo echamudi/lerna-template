@@ -1,6 +1,6 @@
 {
   "name": "@echamudi/array-to-string",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "[🧪 sample repo] array to string, this repo is part of lerna-template",
   "main": "index.js",
   "private": false,
