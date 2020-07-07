@@ -1,2 +1,3 @@
-# lerna-template
-basic lerna repo template
+# Lerna Template
+
+Basic lerna repo template

@@ -1,0 +1,19 @@
+{
+  "name": "@echamudi/flip-string",
+  "version": "0.1.0",
+  "description": "[sample repo] flip string, this repo is part of lerna-template",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/echamudi/lerna-template/packages/flip-string",
+  "keywords": [],
+  "author": "Ezzat Chamudi",
+  "license": "ISC",
+  "dependencies": {
+    "@echamudi/array-to-string": "0.1.0",
+    "@echamudi/string-to-array": "0.1.0",
+    "@echamudi/minimath": "^1.0.2"
+  }
+}
