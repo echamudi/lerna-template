@@ -10,5 +10,8 @@
   "homepage": "https://github.com/echamudi/lerna-template/packages/array-to-string",
   "keywords": [],
   "author": "Ezzat Chamudi",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -15,5 +15,8 @@
     "@echamudi/array-to-string": "^0.1.0",
     "@echamudi/minimath": "^1.0.2",
     "@echamudi/string-to-array": "^0.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
