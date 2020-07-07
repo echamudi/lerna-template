@@ -5,6 +5,8 @@
   "main": "index.js",
   "private": false,
   "scripts": {
+    "prepublish": "echo flip-string prepublish",
+    "prepublishOnly": "echo flip-string prepublishOnly",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "homepage": "https://github.com/echamudi/lerna-template/tree/master/packages/flip-string",

@@ -5,6 +5,8 @@
   "main": "index.js",
   "private": false,
   "scripts": {
+    "prepublish": "echo array-to-string prepublish",
+    "prepublishOnly": "echo array-to-string prepublishOnly",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "homepage": "https://github.com/echamudi/lerna-template/tree/master/packages/array-to-string",
