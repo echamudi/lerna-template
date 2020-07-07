@@ -1,13 +1,13 @@
 {
   "name": "@echamudi/array-to-string",
   "version": "0.3.0",
-  "description": "[sample repo] array to string, this repo is part of lerna-template",
+  "description": "[🧪 sample repo] array to string, this repo is part of lerna-template",
   "main": "index.js",
   "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/echamudi/lerna-template/packages/array-to-string",
+  "homepage": "https://github.com/echamudi/lerna-template/tree/master/packages/array-to-string",
   "keywords": [],
   "author": "Ezzat Chamudi",
   "license": "ISC",
