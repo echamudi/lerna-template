@@ -1,6 +1,6 @@
 {
   "name": "@echamudi/flip-string",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "[🧪 sample repo] flip string, this repo is part of lerna-template",
   "main": "index.js",
   "private": false,
@@ -15,8 +15,8 @@
   "author": "Ezzat Chamudi",
   "license": "MIT",
   "dependencies": {
-    "@echamudi/array-to-string": "^0.5.0",
-    "@echamudi/string-to-array": "^0.5.0"
+    "@echamudi/array-to-string": "^0.6.0",
+    "@echamudi/string-to-array": "^0.6.0"
   },
   "publishConfig": {
     "access": "public"
