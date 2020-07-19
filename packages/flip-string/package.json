@@ -13,7 +13,7 @@
   "homepage": "https://github.com/echamudi/lerna-template/tree/master/packages/flip-string",
   "keywords": [],
   "author": "Ezzat Chamudi",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@echamudi/array-to-string": "^0.4.2",
     "@echamudi/minimath": "^1.0.2",

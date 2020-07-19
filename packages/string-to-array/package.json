@@ -13,7 +13,7 @@
   "homepage": "https://github.com/echamudi/lerna-template/tree/master/packages/string-to-array",
   "keywords": [],
   "author": "Ezzat Chamudi",
-  "license": "ISC",
+  "license": "MIT",
   "publishConfig": {
     "access": "public"
   }
